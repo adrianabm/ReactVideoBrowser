@@ -1,25 +1,19 @@
-# ReduxSimpleStarter
+# React Video Browser
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Video Browser using YouTube API. It was built following the course [Modern React with Redux](https://www.udemy.com/react-redux/) as an introduction to React.
 
-###Getting Started###
+![videobrowser](https://cloud.githubusercontent.com/assets/20054414/21610140/b04fb24a-d1c6-11e6-840d-c01ba1304ae8.gif)
 
-There are two methods for getting started with this repo.
+## Getting Started
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+1. Clone the repository and enter the project directory
+2. Install all dependencies
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+  ```
+  npm instal
+  ```
+  
+2. Run the application - it should be available on http://localhost:8080
+  ```
+  npm start
+  ```
